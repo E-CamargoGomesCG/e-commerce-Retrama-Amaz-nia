@@ -1,0 +1,11 @@
+/* @import './base.css'; */
+
+@import "tailwindcss";
+
+@theme {
+  --color-retrama-green: #044B3A;
+  --color-retrama-orange: #FF8A00;
+  --color-retrama-bg: #FAFAFA;
+
+  --font-sans: "Inter", sans-serif;
+}
